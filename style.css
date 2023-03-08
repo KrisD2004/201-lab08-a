@@ -1,0 +1,46 @@
+body {
+    
+}
+
+header {
+    display: flex;
+}
+ 
+nav {
+    display: flex;
+    margin:0%;
+    width: 100%;
+    background-color: burlywood;
+    padding: 0%;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    background-color: ;
+    column-gap: 50px;
+    height: 40pt;
+
+    
+}
+
+nav li {
+    display: flex;
+    
+}
+
+nav a {
+    display: flex;
+    font-size: 15px;
+    padding: 40px;
+    text-align: center;
+    
+    
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    
+    
+}
